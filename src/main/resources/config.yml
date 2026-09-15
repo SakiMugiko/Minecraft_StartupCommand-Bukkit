@@ -1,0 +1,6 @@
+# 服务器启动完成后等待多少秒
+delay: 5
+
+# 按顺序执行的控制台命令
+commands:
+  - "say Hello, world!"

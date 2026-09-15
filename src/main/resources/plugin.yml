@@ -1,0 +1,6 @@
+name: StartupCommand
+version: 1.0.0
+main: cn.nyatu.SakiMugi.StartupCommand
+api-version: '1.20'
+description: 在服务器启动完成后执行已配置的控制台命令
+author: SakiMugi
